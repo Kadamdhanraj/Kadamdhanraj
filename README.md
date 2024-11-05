@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kadamdhanraj
+- 👀 I’m interested in Python,SQL,Powerbi,ML,Analytics.
+- 🌱 I’m currently learning learning Data Science.
+- 💞️ I’m looking to collaborate on Data Science & Analytics.
+- 📫 How to reach me dhanrajkadam08@gmail.com
